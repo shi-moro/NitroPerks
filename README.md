@@ -11,7 +11,7 @@ With the help of this plugin you'll be able to:
 # Installation 
 1. Download [Better Discord](https://betterdiscord.app);
 2. After setting it up, open **User Settings**, scroll down until you find **Plugins** option and click on the **Open Plugins Folder**;
-3. Download [Plugin](https://github.com/Calatop/Free-Discord-Nitro/releases/tag/0.69) and drop the plugin files inside the folder;
+3. Download [Plugin](github.com/Shimoro-Rune/NitroPerks/releases/latest) and drop the plugin files inside the folder;
 4. Turn the plugin on.
 
 # Changelog
