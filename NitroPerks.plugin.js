@@ -41,7 +41,7 @@ module.exports = (() => {
                 "discord_id": "427406422733619200",
                 "github_username": "Shimoro-Rune"
             }],
-            "version": "1.3.7",
+            "version": "2.0.0",
             "description": "Set clientsided animated avatar and profile banner, share your screen at 60fps 1080P and use cross-server and animated emojis everywhere! You still won't be able to upload 100MB files though :<",
             "github": "https://github.com/Shimoro-Rune/NitroPerks",
             "github_raw": "https://raw.githubusercontent.com/Shimoro-Rune/NitroPerks/main/NitroPerks.plugin.js"
