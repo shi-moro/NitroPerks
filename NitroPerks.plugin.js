@@ -96,7 +96,7 @@ module.exports = (() => {
                 }
             });
         }
-        start() {}
+        start() {this.load();}
         stop() {}
     } : (([Plugin, Api]) => {
         const plugin = (Plugin, Api) => {
