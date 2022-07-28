@@ -2,11 +2,13 @@
 
 # DOES NOT WORK ANYMORE
 I'm not going to update this plugin. Please, feel free to use:
-1. For local users editing:
+1. **For local users editing:**
      * [BetterUsers](https://github.com/Bettlee/BetterUsers) by [Bettlee](https://github.com/Bettlee)
      * [EditUsers](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/EditUsers) by [DevilBro](https://github.com/mwittrien)
-2. For sharing your screen at 60fps 1080p:
+2. **For sharing your screen at 60fps 1080p:**
      * [PremiumScreenShare](https://github.com/Tharki-God/BetterDiscordPlugins/blob/master/PremiumScreenShare.plugin.js) by [Tharki-God](https://github.com/Tharki-God)
+3. **For sending emojis:**
+     * [Freemoji](https://github.com/QbDesu/BetterDiscordAddons/tree/potato/Plugins/Freemoji) by [Qb](https://github.com/QbDesu)
 
 ____
 
