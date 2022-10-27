@@ -3,7 +3,7 @@
 # DOES NOT WORK ANYMORE
 I'm not going to update this plugin. Please, feel free to use:
 1. **For local users editing:**
-     * [BetterUsers](https://github.com/Bettlee/BetterUsers) by [Bettlee](https://github.com/Bettlee)
+     * [BetterBanners](https://github.com/Bettlee/BetterBanners) by [Bettlee](https://github.com/Bettlee)
      * [EditUsers](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/EditUsers) by [DevilBro](https://github.com/mwittrien)
 2. **For sharing your screen at 60fps 1080p:**
      * [PremiumScreenShare](https://github.com/Tharki-God/BetterDiscordPlugins/blob/master/PremiumScreenShare.plugin.js) by [Tharki-God](https://github.com/Tharki-God)
