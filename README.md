@@ -1,14 +1,6 @@
 [![Better Discord](https://img.shields.io/static/v1?label=Better%20Discord&message=v1.2.1&style=flat&color=ffcadf&logo=discord&logoColor=pink)](https://betterdiscord.app) [![Original Source](https://img.shields.io/static/v1?label=Origin%20Source&message=respecting&style=flat&color=ffcadf&logo=github&logoColor=pink)](https://github.com/respecting/NitroPerks) ![Open Source](https://img.shields.io/static/v1?label=Open%20Source&message=❤&style=flat&color=pink) [![GitHub issues](https://img.shields.io/github/issues/Shimoro-Rune/NitroPerks?color=success&logo=github&style=social)](https://github.com/Shimoro-Rune/NitroPerks/issues) [![GitHub stars](https://img.shields.io/github/stars/Shimoro-Rune/NitroPerks?style=social)](https://github.com/Shimoro-Rune/NitroPerks/stargazers)
 
-# DOES NOT WORK ANYMORE
-I'm not going to update this plugin. Please, feel free to use:
-1. **For local users editing:**
-     * [BetterUsers](https://github.com/Bettlee/BetterUsers) by [Bettlee](https://github.com/Bettlee)
-     * [EditUsers](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/EditUsers) by [DevilBro](https://github.com/mwittrien)
-2. **For sharing your screen at 60fps 1080p:**
-     * [PremiumScreenShare](https://github.com/Tharki-God/BetterDiscordPlugins/blob/master/PremiumScreenShare.plugin.js) by [Tharki-God](https://github.com/Tharki-God)
-3. **For sending emojis:**
-     * [Freemoji](https://github.com/QbDesu/BetterDiscordAddons/tree/potato/Plugins/Freemoji) by [Qb](https://github.com/QbDesu)
+
 
 ____
 
